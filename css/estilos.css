@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://picserio.com/data/out/105/blue-gradient-wallpaper_3250675.jpg");
+    background-size: auto 100vh;
+    font-family: Arial; 
+    height: 100vh; 
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex; 
+    justify-content: space-around; 
+  }
+  
+  .menu li {
+    list-style: none;   
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none; 
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    text-align: center;
+    color: whitesmoke;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
